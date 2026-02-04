@@ -155,6 +155,16 @@ header .container {
   margin-bottom: 1rem;
 }
 
+.hero-text a {
+  color: var(--primary);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.hero-text a:hover {
+  text-decoration-thickness: 2px;
+}
+
 /* Quote Carousel */
 .quote-section {
   padding: 4rem 0 5rem;
