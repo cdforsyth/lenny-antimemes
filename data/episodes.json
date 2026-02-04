@@ -1,0 +1,1534 @@
+[
+  {
+    "guest": "ada-chen-rekhi",
+    "path": "episodes/ada-chen-rekhi/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "adam-fishman",
+    "path": "episodes/adam-fishman/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "adam-grenier",
+    "path": "episodes/adam-grenier/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "adriel-frederick",
+    "path": "episodes/adriel-frederick/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "aishwarya-naresh-reganti-kiriti-badam",
+    "path": "episodes/aishwarya-naresh-reganti-kiriti-badam/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "albert-cheng",
+    "path": "episodes/albert-cheng/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "alex-hardimen",
+    "path": "episodes/alex-hardimen/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "alex-komoroske",
+    "path": "episodes/alex-komoroske/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "alexander-embiricos",
+    "path": "episodes/alexander-embiricos/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "alisa-cohn",
+    "path": "episodes/alisa-cohn/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "ami-vora",
+    "path": "episodes/ami-vora/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "amjad-masad",
+    "path": "episodes/amjad-masad/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "andrew-wilkinson",
+    "path": "episodes/andrew-wilkinson/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "andy-johns",
+    "path": "episodes/andy-johns/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "andy-raskin",
+    "path": "episodes/andy-raskin/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "andy-raskin_",
+    "path": "episodes/andy-raskin_/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "anneka-gupta",
+    "path": "episodes/anneka-gupta/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "annie-duke",
+    "path": "episodes/annie-duke/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "annie-pearl",
+    "path": "episodes/annie-pearl/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "anton-osika",
+    "path": "episodes/anton-osika/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "anuj-rathi",
+    "path": "episodes/anuj-rathi/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "aparna-chennapragada",
+    "path": "episodes/aparna-chennapragada/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "april-dunford-20",
+    "path": "episodes/april-dunford-20/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "april-dunford",
+    "path": "episodes/april-dunford/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "archie-abrams",
+    "path": "episodes/archie-abrams/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "arielle-jackson",
+    "path": "episodes/arielle-jackson/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "asha-sharma",
+    "path": "episodes/asha-sharma/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "austin-hay",
+    "path": "episodes/austin-hay/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "ayo-omojola",
+    "path": "episodes/ayo-omojola/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "bangaly-kaba",
+    "path": "episodes/bangaly-kaba/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "barbra-gago",
+    "path": "episodes/barbra-gago/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "ben-horowitz",
+    "path": "episodes/ben-horowitz/transcript.md",
+    "processed": true,
+    "processed_at": "2026-01-14T00:00:00Z"
+  },
+  {
+    "guest": "ben-williams",
+    "path": "episodes/ben-williams/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "benjamin-lauzier",
+    "path": "episodes/benjamin-lauzier/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "benjamin-mann",
+    "path": "episodes/benjamin-mann/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "bill-carr",
+    "path": "episodes/bill-carr/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "bob-baxley",
+    "path": "episodes/bob-baxley/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "bob-moesta-20",
+    "path": "episodes/bob-moesta-20/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "bob-moesta",
+    "path": "episodes/bob-moesta/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "boz",
+    "path": "episodes/boz/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "brandon-chu",
+    "path": "episodes/brandon-chu/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "brendan-foody",
+    "path": "episodes/brendan-foody/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "bret-taylor",
+    "path": "episodes/bret-taylor/transcript.md",
+    "processed": true,
+    "processed_at": "2026-01-14T00:00:00Z"
+  },
+  {
+    "guest": "brian-balfour",
+    "path": "episodes/brian-balfour/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "brian-chesky",
+    "path": "episodes/brian-chesky/transcript.md",
+    "processed": true,
+    "processed_at": "2026-01-14T00:00:00Z"
+  },
+  {
+    "guest": "brian-tolkin",
+    "path": "episodes/brian-tolkin/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "cam-adams",
+    "path": "episodes/cam-adams/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "camille-fournier",
+    "path": "episodes/camille-fournier/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "camille-hearst",
+    "path": "episodes/camille-hearst/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "camille-ricketts",
+    "path": "episodes/camille-ricketts/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "carilu-dietrich",
+    "path": "episodes/carilu-dietrich/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "carole-robin",
+    "path": "episodes/carole-robin/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "casey-winters",
+    "path": "episodes/casey-winters/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "casey-winters_",
+    "path": "episodes/casey-winters_/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "chandra-janakiraman",
+    "path": "episodes/chandra-janakiraman/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "chip-conley",
+    "path": "episodes/chip-conley/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "chip-huyen",
+    "path": "episodes/chip-huyen/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "chris-hutchins",
+    "path": "episodes/chris-hutchins/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "christian-idiodi",
+    "path": "episodes/christian-idiodi/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "christina-wodtke",
+    "path": "episodes/christina-wodtke/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "christine-itwaru",
+    "path": "episodes/christine-itwaru/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "christopher-lochhead",
+    "path": "episodes/christopher-lochhead/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "christopher-miller",
+    "path": "episodes/christopher-miller/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "claire-butler",
+    "path": "episodes/claire-butler/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "claire-hughes-johnson",
+    "path": "episodes/claire-hughes-johnson/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "claire-vo",
+    "path": "episodes/claire-vo/transcript.md",
+    "processed": true,
+    "processed_at": "2026-01-14T00:00:00Z"
+  },
+  {
+    "guest": "crystal-w",
+    "path": "episodes/crystal-w/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "dalton-caldwell",
+    "path": "episodes/dalton-caldwell/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "dan-hockenmaier",
+    "path": "episodes/dan-hockenmaier/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "dan-shipper",
+    "path": "episodes/dan-shipper/transcript.md",
+    "processed": true,
+    "processed_at": "2026-01-14T00:00:00Z"
+  },
+  {
+    "guest": "daniel-lereya",
+    "path": "episodes/daniel-lereya/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "david-placek",
+    "path": "episodes/david-placek/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "david-singleton",
+    "path": "episodes/david-singleton/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "deb-liu",
+    "path": "episodes/deb-liu/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "dhanji-r-prasanna",
+    "path": "episodes/dhanji-r-prasanna/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "dharmesh-shah",
+    "path": "episodes/dharmesh-shah/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "dmitry-zlokazov",
+    "path": "episodes/dmitry-zlokazov/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "donna-lichaw",
+    "path": "episodes/donna-lichaw/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "dr-fei-fei-li",
+    "path": "episodes/dr-fei-fei-li/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "drew-houston",
+    "path": "episodes/drew-houston/transcript.md",
+    "processed": true,
+    "processed_at": "2026-01-14T00:00:00Z"
+  },
+  {
+    "guest": "dylan-field-20",
+    "path": "episodes/dylan-field-20/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "dylan-field",
+    "path": "episodes/dylan-field/transcript.md",
+    "processed": true,
+    "processed_at": "2026-01-14T00:00:00Z"
+  },
+  {
+    "guest": "ebi-atawodi",
+    "path": "episodes/ebi-atawodi/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "edwin-chen",
+    "path": "episodes/edwin-chen/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "eeke-de-milliano",
+    "path": "episodes/eeke-de-milliano/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "elena-verna-20",
+    "path": "episodes/elena-verna-20/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "elena-verna-30",
+    "path": "episodes/elena-verna-30/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "elena-verna-40",
+    "path": "episodes/elena-verna-40/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "elena-verna",
+    "path": "episodes/elena-verna/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "eli-schwartz",
+    "path": "episodes/eli-schwartz/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "elizabeth-stone",
+    "path": "episodes/elizabeth-stone/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "emilie-gerber",
+    "path": "episodes/emilie-gerber/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "emily-kramer",
+    "path": "episodes/emily-kramer/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "eoghan-mccabe",
+    "path": "episodes/eoghan-mccabe/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "eoy-review",
+    "path": "episodes/eoy-review/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "eric-ries",
+    "path": "episodes/eric-ries/transcript.md",
+    "processed": true,
+    "processed_at": "2026-01-14T00:00:00Z"
+  },
+  {
+    "guest": "eric-simons",
+    "path": "episodes/eric-simons/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "ethan-evans-20",
+    "path": "episodes/ethan-evans-20/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "ethan-evans",
+    "path": "episodes/ethan-evans/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "ethan-smith",
+    "path": "episodes/ethan-smith/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "evan-lapointe",
+    "path": "episodes/evan-lapointe/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "failure",
+    "path": "episodes/failure/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "fareed-mosavat",
+    "path": "episodes/fareed-mosavat/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "farhan-thawar",
+    "path": "episodes/farhan-thawar/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "fei-fei",
+    "path": "episodes/fei-fei/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "garrett-lord",
+    "path": "episodes/garrett-lord/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "gaurav-misra",
+    "path": "episodes/gaurav-misra/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "geoff-charles",
+    "path": "episodes/geoff-charles/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "geoffrey-moore",
+    "path": "episodes/geoffrey-moore/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "gergely",
+    "path": "episodes/gergely/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "gia-laudi",
+    "path": "episodes/gia-laudi/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "gibson-biddle",
+    "path": "episodes/gibson-biddle/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "gina-gotthilf",
+    "path": "episodes/gina-gotthilf/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "gokul-rajaram",
+    "path": "episodes/gokul-rajaram/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "graham-weaver",
+    "path": "episodes/graham-weaver/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "grant-lee",
+    "path": "episodes/grant-lee/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "guillermo-rauch",
+    "path": "episodes/guillermo-rauch/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "gustaf-alstromer",
+    "path": "episodes/gustaf-alstromer/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "gustav-söderström",
+    "path": "episodes/gustav-söderström/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "hamel-husain-shreya-shankar",
+    "path": "episodes/hamel-husain-shreya-shankar/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "hamelshreya",
+    "path": "episodes/hamelshreya/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "hamilton-helmer",
+    "path": "episodes/hamilton-helmer/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "hari-srinivasan",
+    "path": "episodes/hari-srinivasan/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "heidi-helfand",
+    "path": "episodes/heidi-helfand/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "hila-qu",
+    "path": "episodes/hila-qu/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "hilary-gridley",
+    "path": "episodes/hilary-gridley/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "howie-liu",
+    "path": "episodes/howie-liu/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "ian-mcallister",
+    "path": "episodes/ian-mcallister/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "inbal-s",
+    "path": "episodes/inbal-s/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "interview-q-compilation",
+    "path": "episodes/interview-q-compilation/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "itamar-gilad",
+    "path": "episodes/itamar-gilad/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "ivan-zhao",
+    "path": "episodes/ivan-zhao/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jackie-bavaro",
+    "path": "episodes/jackie-bavaro/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jackson-shuttleworth",
+    "path": "episodes/jackson-shuttleworth/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jag-duggal",
+    "path": "episodes/jag-duggal/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jake-knapp-john-zeratsky-20",
+    "path": "episodes/jake-knapp-john-zeratsky-20/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jake-knapp-john-zeratsky",
+    "path": "episodes/jake-knapp-john-zeratsky/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "janna-bastow",
+    "path": "episodes/janna-bastow/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jason-droege",
+    "path": "episodes/jason-droege/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jason-feifer",
+    "path": "episodes/jason-feifer/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jason-fried",
+    "path": "episodes/jason-fried/transcript.md",
+    "processed": true,
+    "processed_at": "2026-01-14T00:00:00Z"
+  },
+  {
+    "guest": "jason-m-lemkin",
+    "path": "episodes/jason-m-lemkin/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jason-shah",
+    "path": "episodes/jason-shah/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jeanne-grosser",
+    "path": "episodes/jeanne-grosser/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jeff-weinstein",
+    "path": "episodes/jeff-weinstein/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jeffrey-pfeffer",
+    "path": "episodes/jeffrey-pfeffer/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jen-abel-20",
+    "path": "episodes/jen-abel-20/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jen-abel",
+    "path": "episodes/jen-abel/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jeremy-henrickson",
+    "path": "episodes/jeremy-henrickson/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jerry-colonna",
+    "path": "episodes/jerry-colonna/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jess-lachs",
+    "path": "episodes/jess-lachs/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jessica-hische",
+    "path": "episodes/jessica-hische/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jessica-livingston",
+    "path": "episodes/jessica-livingston/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jiaona-zhang",
+    "path": "episodes/jiaona-zhang/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "joe-hudson",
+    "path": "episodes/joe-hudson/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "john-cutler",
+    "path": "episodes/john-cutler/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "john-mark-nickels",
+    "path": "episodes/john-mark-nickels/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jonathan-becker",
+    "path": "episodes/jonathan-becker/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jonathan-lowenhar",
+    "path": "episodes/jonathan-lowenhar/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jonny-miller",
+    "path": "episodes/jonny-miller/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "josh-miller",
+    "path": "episodes/josh-miller/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "judd-antin",
+    "path": "episodes/judd-antin/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "jules-walter",
+    "path": "episodes/jules-walter/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "julia-schottenstein",
+    "path": "episodes/julia-schottenstein/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "julian-shapiro",
+    "path": "episodes/julian-shapiro/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "julie-zhuo-20",
+    "path": "episodes/julie-zhuo-20/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "julie-zhuo",
+    "path": "episodes/julie-zhuo/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "karina-nguyen",
+    "path": "episodes/karina-nguyen/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "karri-saarinen",
+    "path": "episodes/karri-saarinen/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "katie-dill",
+    "path": "episodes/katie-dill/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "kayvon-beykpour",
+    "path": "episodes/kayvon-beykpour/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "keith-coleman-jay-baxter",
+    "path": "episodes/keith-coleman-jay-baxter/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "keith-yandell",
+    "path": "episodes/keith-yandell/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "ken-norton",
+    "path": "episodes/ken-norton/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "kenneth-berger",
+    "path": "episodes/kenneth-berger/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "kevin-aluwi",
+    "path": "episodes/kevin-aluwi/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "kevin-weil",
+    "path": "episodes/kevin-weil/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "kevin-yien",
+    "path": "episodes/kevin-yien/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "kim-scott",
+    "path": "episodes/kim-scott/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "kristen-berman",
+    "path": "episodes/kristen-berman/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "krithika-shankarraman",
+    "path": "episodes/krithika-shankarraman/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "kunal-shah",
+    "path": "episodes/kunal-shah/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "lane-shackleton",
+    "path": "episodes/lane-shackleton/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "laura-modi",
+    "path": "episodes/laura-modi/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "laura-schaffer",
+    "path": "episodes/laura-schaffer/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "lauren-ipsen",
+    "path": "episodes/lauren-ipsen/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "lauryn-isford",
+    "path": "episodes/lauryn-isford/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "logan-kilpatrick",
+    "path": "episodes/logan-kilpatrick/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "luc-levesque",
+    "path": "episodes/luc-levesque/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "lulu-cheng-meservey",
+    "path": "episodes/lulu-cheng-meservey/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "madhavan-ramanujam-20",
+    "path": "episodes/madhavan-ramanujam-20/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "madhavan-ramanujam",
+    "path": "episodes/madhavan-ramanujam/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "maggie-crowley",
+    "path": "episodes/maggie-crowley/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "manik-gupta",
+    "path": "episodes/manik-gupta/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "marc-benioff",
+    "path": "episodes/marc-benioff/transcript.md",
+    "processed": true,
+    "processed_at": "2026-01-14T00:00:00Z"
+  },
+  {
+    "guest": "marily-nika",
+    "path": "episodes/marily-nika/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "marty-cagan-20",
+    "path": "episodes/marty-cagan-20/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "marty-cagan",
+    "path": "episodes/marty-cagan/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "matt-abrahams",
+    "path": "episodes/matt-abrahams/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "matt-dixon",
+    "path": "episodes/matt-dixon/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "matt-lemay",
+    "path": "episodes/matt-lemay/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "matt-macinnis",
+    "path": "episodes/matt-macinnis/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "matt-mochary",
+    "path": "episodes/matt-mochary/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "matt-mullenweg",
+    "path": "episodes/matt-mullenweg/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "matthew-dicks",
+    "path": "episodes/matthew-dicks/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "maya-prohovnik",
+    "path": "episodes/maya-prohovnik/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "mayur-kamat",
+    "path": "episodes/mayur-kamat/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "megan-cook",
+    "path": "episodes/megan-cook/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "melanie-perkins",
+    "path": "episodes/melanie-perkins/transcript.md",
+    "processed": true,
+    "processed_at": "2026-01-14T00:00:00Z"
+  },
+  {
+    "guest": "melissa-perri-denise-tilles",
+    "path": "episodes/melissa-perri-denise-tilles/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "melissa-perri",
+    "path": "episodes/melissa-perri/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "melissa-tan",
+    "path": "episodes/melissa-tan/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "melissa",
+    "path": "episodes/melissa/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "meltem-kuran",
+    "path": "episodes/meltem-kuran/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "merci-grace",
+    "path": "episodes/merci-grace/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "michael-truell",
+    "path": "episodes/michael-truell/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "mihika-kapoor",
+    "path": "episodes/mihika-kapoor/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "mike-krieger",
+    "path": "episodes/mike-krieger/transcript.md",
+    "processed": true,
+    "processed_at": "2026-01-14T00:00:00Z"
+  },
+  {
+    "guest": "mike-maples-jr",
+    "path": "episodes/mike-maples-jr/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "molly-graham",
+    "path": "episodes/molly-graham/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "nabeel-s-qureshi",
+    "path": "episodes/nabeel-s-qureshi/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "nan-yu",
+    "path": "episodes/nan-yu/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "nancy-duarte",
+    "path": "episodes/nancy-duarte/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "naomi-gleit",
+    "path": "episodes/naomi-gleit/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "naomi-ionita",
+    "path": "episodes/naomi-ionita/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "nick-turley",
+    "path": "episodes/nick-turley/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "nickey-skarstad",
+    "path": "episodes/nickey-skarstad/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "nicole-forsgren-20",
+    "path": "episodes/nicole-forsgren-20/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "nicole-forsgren",
+    "path": "episodes/nicole-forsgren/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "nikhyl-singhal",
+    "path": "episodes/nikhyl-singhal/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "nikita-bier",
+    "path": "episodes/nikita-bier/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "nikita-miller",
+    "path": "episodes/nikita-miller/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "nilan-peiris",
+    "path": "episodes/nilan-peiris/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "nir-eyal",
+    "path": "episodes/nir-eyal/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "noah-weiss",
+    "path": "episodes/noah-weiss/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "noam-lovinsky",
+    "path": "episodes/noam-lovinsky/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "oji-udezue",
+    "path": "episodes/oji-udezue/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "paige-costello",
+    "path": "episodes/paige-costello/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "patrick-campbell",
+    "path": "episodes/patrick-campbell/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "paul-adams",
+    "path": "episodes/paul-adams/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "paul-millerd",
+    "path": "episodes/paul-millerd/transcript.md",
+    "processed": true,
+    "processed_at": "2026-01-14T00:00:00Z"
+  },
+  {
+    "guest": "pete-kazanjy",
+    "path": "episodes/pete-kazanjy/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "peter-deng",
+    "path": "episodes/peter-deng/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "petra-wille",
+    "path": "episodes/petra-wille/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "phyl-terry",
+    "path": "episodes/phyl-terry/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "raaz-herzberg",
+    "path": "episodes/raaz-herzberg/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "rachel-lockett",
+    "path": "episodes/rachel-lockett/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "rahul-vohra",
+    "path": "episodes/rahul-vohra/transcript.md",
+    "processed": true,
+    "processed_at": "2026-01-14T00:00:00Z"
+  },
+  {
+    "guest": "ramesh-johari",
+    "path": "episodes/ramesh-johari/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "ravi-mehta",
+    "path": "episodes/ravi-mehta/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "ray-cao",
+    "path": "episodes/ray-cao/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "richard-rumelt",
+    "path": "episodes/richard-rumelt/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "robby-stein",
+    "path": "episodes/robby-stein/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "roger-martin",
+    "path": "episodes/roger-martin/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "ronny-kohavi",
+    "path": "episodes/ronny-kohavi/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "ryan-hoover",
+    "path": "episodes/ryan-hoover/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "ryan-j-salva",
+    "path": "episodes/ryan-j-salva/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "ryan-singer",
+    "path": "episodes/ryan-singer/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "sachin-monga",
+    "path": "episodes/sachin-monga/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "sahil-mansuri",
+    "path": "episodes/sahil-mansuri/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "sam-schillace",
+    "path": "episodes/sam-schillace/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "sanchan-saxena",
+    "path": "episodes/sanchan-saxena/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "sander-schulhoff-20",
+    "path": "episodes/sander-schulhoff-20/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "sander-schulhoff",
+    "path": "episodes/sander-schulhoff/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "sarah-tavel",
+    "path": "episodes/sarah-tavel/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "scott-belsky",
+    "path": "episodes/scott-belsky/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "scott-wu",
+    "path": "episodes/scott-wu/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "sean-ellis",
+    "path": "episodes/sean-ellis/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "seth-godin",
+    "path": "episodes/seth-godin/transcript.md",
+    "processed": true,
+    "processed_at": "2026-01-14T00:00:00Z"
+  },
+  {
+    "guest": "shaun-clowes",
+    "path": "episodes/shaun-clowes/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "shishir-mehrotra",
+    "path": "episodes/shishir-mehrotra/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "shreyas-doshi-live",
+    "path": "episodes/shreyas-doshi-live/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "shreyas-doshi",
+    "path": "episodes/shreyas-doshi/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "shweta-shriva",
+    "path": "episodes/shweta-shriva/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "sri-batchu",
+    "path": "episodes/sri-batchu/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "sriram-and-aarthi",
+    "path": "episodes/sriram-and-aarthi/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "stewart-butterfield",
+    "path": "episodes/stewart-butterfield/transcript.md",
+    "processed": true,
+    "processed_at": "2026-01-14T00:00:00Z"
+  },
+  {
+    "guest": "tamar-yehoshua",
+    "path": "episodes/tamar-yehoshua/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "tanguy-crusson",
+    "path": "episodes/tanguy-crusson/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "teaser_2021",
+    "path": "episodes/teaser_2021/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "teresa-torres",
+    "path": "episodes/teresa-torres/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "tim-holley",
+    "path": "episodes/tim-holley/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "timothy-davis",
+    "path": "episodes/timothy-davis/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "tobi-lutke",
+    "path": "episodes/tobi-lutke/transcript.md",
+    "processed": true,
+    "processed_at": "2026-01-14T00:00:00Z"
+  },
+  {
+    "guest": "todd-jackson",
+    "path": "episodes/todd-jackson/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "tom-conrad",
+    "path": "episodes/tom-conrad/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "tomer-cohen-20",
+    "path": "episodes/tomer-cohen-20/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "tomer-cohen",
+    "path": "episodes/tomer-cohen/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "tristan-de-montebello",
+    "path": "episodes/tristan-de-montebello/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "upasna-gautam",
+    "path": "episodes/upasna-gautam/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "uri-levine-20",
+    "path": "episodes/uri-levine-20/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "uri-levine",
+    "path": "episodes/uri-levine/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "varun-mohan",
+    "path": "episodes/varun-mohan/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "varun-parmar",
+    "path": "episodes/varun-parmar/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "vijay",
+    "path": "episodes/vijay/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "vikrama-dhiman",
+    "path": "episodes/vikrama-dhiman/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "wes-kao-20",
+    "path": "episodes/wes-kao-20/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "wes-kao",
+    "path": "episodes/wes-kao/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "will-larson",
+    "path": "episodes/will-larson/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "yamashata",
+    "path": "episodes/yamashata/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "yuhki-yamashata",
+    "path": "episodes/yuhki-yamashata/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "yuriy-timen",
+    "path": "episodes/yuriy-timen/transcript.md",
+    "processed": false
+  },
+  {
+    "guest": "zoelle-egner",
+    "path": "episodes/zoelle-egner/transcript.md",
+    "processed": false
+  }
+]

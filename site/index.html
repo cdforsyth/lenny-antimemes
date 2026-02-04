@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lenny Antimemes - Insights Most Listeners Miss</title>
+  <meta name="description" content="Counterintuitive insights from Lenny's Podcast that resist spreading. The stuff only 1-5% of listeners notice.">
+
+  <!-- Open Graph / Social sharing -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://lenny.antimeme.co">
+  <meta property="og:title" content="Antimemetic Insights from Lenny's Podcast">
+  <meta property="og:description" content="Ideas that resist spreading despite being important. The counterintuitive insights only 1-5% of listeners notice.">
+  <meta property="og:image" content="https://lenny.antimeme.co/og-image.png">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@antimemetic_">
+  <meta name="twitter:title" content="Antimemetic Insights from Lenny's Podcast">
+  <meta name="twitter:description" content="Ideas that resist spreading despite being important. The counterintuitive insights only 1-5% of listeners notice.">
+  <meta name="twitter:image" content="https://lenny.antimeme.co/og-image.png">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Hero Section -->
+  <header class="hero">
+    <div class="hero-content">
+      <h1>An antimeme is an idea that resists spreading - despite being important.</h1>
+      <p class="hero-subtitle">Not because it's wrong. Because it's uncomfortable to sit with, or inconvenient to say out loud.</p>
+      <p class="hero-body">These ideas are easy to nod along to, but hard to internalise. The people on <a href="https://www.lennysnewsletter.com/podcast" target="_blank">Lenny's podcast</a> have internalised them anyway. That's part of what makes them outliers.</p>
+      <p class="hero-byline">by <a href="https://x.com/antimemetic_" target="_blank">@antimemetic_</a></p>
+      <div class="hero-stats" style="display: none;">
+        <span class="stat"><strong id="episode-count">0</strong> Episodes</span>
+        <span class="stat"><strong id="insight-count">0</strong> Antimemes</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Quote Carousel -->
+  <section class="quote-carousel">
+    <div class="quote-icon">"</div>
+    <blockquote id="featured-quote" class="featured-quote"></blockquote>
+    <p id="featured-guest" class="featured-guest"></p>
+    <div class="quote-meta">
+      <span id="featured-type" class="quote-type"></span>
+      <span id="featured-context" class="quote-context"></span>
+    </div>
+    <button id="shuffle-quote" class="shuffle-btn">Shuffle Quote</button>
+    <p class="follow-cta">Follow <a href="https://x.com/antimemetic_" target="_blank">@antimemetic_</a> for more</p>
+  </section>
+
+  <!-- Filters -->
+  <nav class="filters">
+    <div class="filter-group">
+      <button class="filter-btn active" data-filter="all">All</button>
+      <button class="filter-btn" data-filter="cognitive">Cognitive</button>
+      <button class="filter-btn" data-filter="social">Social</button>
+      <button class="filter-btn" data-filter="implementation">Implementation</button>
+      <button class="filter-btn" data-filter="system">System</button>
+    </div>
+    <div class="guest-filter">
+      <select id="guest-select">
+        <option value="all">All Guests</option>
+      </select>
+    </div>
+  </nav>
+
+  <!-- Main Content -->
+  <main class="container">
+    <!-- Episode Grid View -->
+    <section id="episode-grid" class="episode-grid">
+      <!-- Episodes will be rendered here -->
+    </section>
+
+    <!-- Single Episode View (hidden by default) -->
+    <section id="episode-view" class="episode-view hidden">
+      <button class="back-btn" id="back-to-grid">&larr; All Episodes</button>
+      <div class="episode-header">
+        <h2 id="episode-guest"></h2>
+        <p id="episode-source" class="episode-source"></p>
+      </div>
+      <div id="insight-cards" class="insight-cards">
+        <!-- Insight cards will be rendered here -->
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>
+      Built on <a href="https://www.lennysnewsletter.com/podcast" target="_blank">Lenny's Podcast</a>
+      &middot;
+      <a href="https://github.com/ChatPRD/lennys-podcast-transcripts" target="_blank">Transcripts</a>
+      &middot;
+      <a href="https://x.com/antimemetic_" target="_blank">@antimemetic_</a>
+    </p>
+    <p class="footer-note">Antimemes: ideas that resist spreading because they're cognitively uncomfortable, socially inconvenient, or undermine conventional wisdom.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
